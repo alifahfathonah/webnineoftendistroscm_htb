@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+  <rss version="2.0"><channel> 
+				<title>RSS NineOfTen Distro</title> 
+				<description>NineOfTen Distro adalah marketplace yang menawarkan pengalaman belanja online yang cepat, aman dan nyaman dengan kategori produk yang paling lengkap di Indonesia.</description>
+				<link>http://localhost/scm</link> 
+				<language>id-id</language><item>
+						                <title>Kegiatan Meresahkan</title>
+						                <link>http://localhost/scm/berita/detail/kegiatan-meresahkan</link>
+						                <description>Tolak dan Jegal Omnibus Law!
+</description>
+					                </item></channel>
+  	</rss>
